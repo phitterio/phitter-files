@@ -1,4 +1,4 @@
-# Phitter Distributions Files
+# **Phitter Distributions Files**
 
 Welcome to the Phitter Distributions Files repository! This repository contains a collection of Excel files detailing various probability distributions, both continuous and discrete.
 
