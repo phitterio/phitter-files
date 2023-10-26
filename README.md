@@ -30,7 +30,7 @@ Welcome to the Phitter Distributions Files repository! This repository contains 
 
 ## Requirements
 
-- Please note that the Excel files in this repository are optimized for **Excel 365**. To ensure proper compatibility and functionality, please open these files in Excel 365 only.
+- Please note that the Excel files in this repository are optimized for ***Excel 365***. To ensure proper compatibility and functionality, please open these files in ***Excel 365*** only. If you do not have access to this version of Excel, check the same files in ***Google Sheet*** online.
 
 ## Contribution
 
